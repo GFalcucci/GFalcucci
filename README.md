@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Guilherme Falcucci
+
+- 🎓 Estudante de Ciência da Computação na UNIFAL
+- 💻 Iniciando na programação, focado em C e C++
+- 📚 Sempre aprendendo algo novo
+- 🧑‍💻 18 anos, apaixonado por tecnologia
+
+> "A jornada está só começando."
 
 <!--
-**GFalcucci/GFalcucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Contato: (guilhermefalcucci@hotmail.com // @guifalcucci)
 -->
+
